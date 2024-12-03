@@ -196,6 +196,10 @@ body {
     
 }
 
+.rodape_section {
+    background-color: #030c29;
+    padding-top: 25px;
+}
 
 .rodape_texto {
     text-align: center;
